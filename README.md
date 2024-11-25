@@ -1,3 +1,4 @@
+![github-header-image](https://github.com/user-attachments/assets/ea2741e4-c979-4471-91ee-f8060820ad77)
 <h1 align="center">⚡Hi, I´m Érika⚡ </h1>
 
 📝 I’m currently learning Web Developer Fullstack in F5-Peñascal Koop
